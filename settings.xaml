@@ -1,0 +1,97 @@
+﻿<Window x:Class="snagThis.settings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:snagThis"
+        mc:Ignorable="d"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+         TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+         TextElement.FontWeight="Regular"
+         TextElement.FontSize="13"
+         TextOptions.TextFormattingMode="Ideal"
+         TextOptions.TextRenderingMode="Auto"
+         Background="{DynamicResource MaterialDesignPaper}"
+         FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="Settings" Height="506" Width="700" WindowStartupLocation="CenterScreen"  Loaded="Window_Loaded"
+        WindowStyle="None" ResizeMode="NoResize">
+    <Grid>
+        <Button x:Name="closeWindowButton" HorizontalAlignment="Left" Margin="680,6,0,0" VerticalAlignment="Top" Width="14" Height="14" Padding="0" Click="closeWindowButton_Click">
+            <materialDesign:PackIcon Kind="WindowClose" VerticalAlignment="Center" Width="14" />
+        </Button>
+        <Label Content="Settings" FontSize="32" HorizontalAlignment="Left" Margin="0,25,0,0" VerticalAlignment="Top" Width="700" />
+
+        <Label Content="Dark Or Light Mode" HorizontalAlignment="Left" Margin="51,86,0,0" VerticalAlignment="Top" Width="144"/>
+        <ComboBox x:Name="modePicker" materialDesign:HintAssist.Hint="Mode" Margin="57,117,499,361" SelectionChanged="modePicker_SelectionChanged"
+                  SelectedValuePath="Content">
+            <ComboBoxItem Background="#303030" Foreground="#ffffff">Dark</ComboBoxItem>
+            <ComboBoxItem Background="#ffffff" Foreground="#000000">Light</ComboBoxItem>
+        </ComboBox>
+
+
+
+        <Label Content="Primary Color:" HorizontalAlignment="Left" Margin="265,86,0,0" VerticalAlignment="Top" Width="144"/>
+        <ComboBox x:Name="PrimaryColorPicker" materialDesign:HintAssist.Hint="Primary Color" Margin="265,117,291,361" SelectionChanged="PrimaryColorPicker_SelectionChanged"
+                  SelectedValuePath="Content">
+            <ComboBoxItem Background="#F44336">Red</ComboBoxItem>
+            <ComboBoxItem Background="#E91E63">Pink</ComboBoxItem>
+            <ComboBoxItem Background="#9C27B0">Purple</ComboBoxItem>
+            <ComboBoxItem Background="#673AB7">DeepPurple</ComboBoxItem>
+            <ComboBoxItem Background="#3F51B5">Indigo</ComboBoxItem>
+            <ComboBoxItem Background="#2196F3">Blue</ComboBoxItem>
+            <ComboBoxItem Background="#03A9F4">LightBlue</ComboBoxItem>
+            <ComboBoxItem Background="#00BCD4">Cyan</ComboBoxItem>
+            <ComboBoxItem Background="#009688">Teal</ComboBoxItem>
+            <ComboBoxItem Background="#4CAF50">Green</ComboBoxItem>
+            <ComboBoxItem Background="#8BC34A">LightGreen</ComboBoxItem>
+            <ComboBoxItem Background="#CDDC39">Lime</ComboBoxItem>
+            <ComboBoxItem Background="#FFEB3B">Yellow</ComboBoxItem>
+            <ComboBoxItem Background="#FFC107">Amber</ComboBoxItem>
+            <ComboBoxItem Background="#FF9800">Orange</ComboBoxItem>
+            <ComboBoxItem Background="#FF5722">DeepOrange</ComboBoxItem>
+            <ComboBoxItem Background="#795548">Brown</ComboBoxItem>
+            <ComboBoxItem Background="#9E9E9E">Grey</ComboBoxItem>
+            <ComboBoxItem Background="#607D8B">BlueGrey</ComboBoxItem>
+        </ComboBox>
+
+
+        <Label Content="Accent Color:" HorizontalAlignment="Left" Margin="456,86,0,0" VerticalAlignment="Top" Width="144"/>
+        <ComboBox x:Name="AccentColorPicker" materialDesign:HintAssist.Hint="Accent Color" Margin="462,117,94,361" SelectionChanged="AccentColorPicker_SelectionChanged"
+                  SelectedValuePath="Content">
+            <ComboBoxItem Background="#F44336">Red</ComboBoxItem>
+            <ComboBoxItem Background="#E91E63">Pink</ComboBoxItem>
+            <ComboBoxItem Background="#9C27B0">Purple</ComboBoxItem>
+            <ComboBoxItem Background="#673AB7">DeepPurple</ComboBoxItem>
+            <ComboBoxItem Background="#3F51B5">Indigo</ComboBoxItem>
+            <ComboBoxItem Background="#2196F3">Blue</ComboBoxItem>
+            <ComboBoxItem Background="#03A9F4">LightBlue</ComboBoxItem>
+            <ComboBoxItem Background="#00BCD4">Cyan</ComboBoxItem>
+            <ComboBoxItem Background="#009688">Teal</ComboBoxItem>
+            <ComboBoxItem Background="#4CAF50">Green</ComboBoxItem>
+            <ComboBoxItem Background="#8BC34A">LightGreen</ComboBoxItem>
+            <ComboBoxItem Background="#CDDC39">Lime</ComboBoxItem>
+            <ComboBoxItem Background="#FFEB3B">Yellow</ComboBoxItem>
+            <ComboBoxItem Background="#FFC107">Amber</ComboBoxItem>
+            <ComboBoxItem Background="#FF9800">Orange</ComboBoxItem>
+            <ComboBoxItem Background="#FF5722">DeepOrange</ComboBoxItem>
+            <ComboBoxItem Background="#795548">Brown</ComboBoxItem>
+            <ComboBoxItem Background="#9E9E9E">Grey</ComboBoxItem>
+            <ComboBoxItem Background="#607D8B">BlueGrey</ComboBoxItem>
+        </ComboBox>
+
+
+        <Label Content="Default Saved Picture Location" HorizontalAlignment="Left" Margin="51,197,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="saveFolderPath" HorizontalAlignment="Left" Height="29" Margin="57,228,0,0" TextWrapping="Wrap" Text="Path" VerticalAlignment="Top" Width="423"/>
+        <Button x:Name="SelectDefaultSaveLocation" Content="Select Folder" HorizontalAlignment="Left" Margin="491,228,0,0" VerticalAlignment="Top" Width="115" Click="SelectDefaultSaveLocation_Click"/>
+
+        <Label Content="Auto Focus" HorizontalAlignment="Left" Margin="52,302,0,0" VerticalAlignment="Top" Width="79"/>
+        <StackPanel Margin="58,328,549,157" Orientation="Horizontal" >
+            <RadioButton x:Name="AutoFocusTrue"  Content="Yes" HorizontalAlignment="Left"  VerticalAlignment="Top" Checked="AutoFocusTrue_Checked"/>
+            <RadioButton x:Name="AutoFocusFalse" Content="No" HorizontalAlignment="Left" VerticalAlignment="Top" Checked="AutoFocusFalse_Checked"/>
+        </StackPanel>
+        <Label Content="*When you hover over a window it will bring it in front of all other screens." HorizontalAlignment="Left" Margin="131,304,0,0" VerticalAlignment="Top" FontSize="11px"/>
+
+
+
+    </Grid>
+</Window>

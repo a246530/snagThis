@@ -1,0 +1,105 @@
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\snagThis\snagThis\bin\Debug\snagThis.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\snagThis\snagThis\obj\Debug\snagThis.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\snagThis\snagThis\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\snagThis\snagThis\obj\Debug\App.g.cs
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\snagThis\snagThis\obj\Debug\snagThis_MarkupCompile.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\snagThis\snagThis\obj\Debug\snagThis_MarkupCompile.lref
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\snagThis\snagThis\bin\Debug\snagThis.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\snagThis\snagThis\bin\Debug\snagThis.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\snagThis\snagThis\obj\Debug\MainWindow.baml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\snagThis\snagThis\obj\Debug\snagThis.g.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\snagThis\snagThis\obj\Debug\snagThis.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\snagThis\snagThis\obj\Debug\snagThis.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\snagThis\snagThis\obj\Debug\snagThis.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\snagThis\snagThis\obj\Debug\snagThis.pdb
+O:\snagThis\bin\Debug\snagThis.exe.config
+O:\snagThis\obj\Debug\snagThis.exe
+O:\snagThis\obj\Debug\snagThis.pdb
+O:\snagThis\bin\Debug\snagThis.exe
+O:\snagThis\bin\Debug\snagThis.pdb
+O:\snagThis\obj\Debug\App.g.cs
+O:\snagThis\obj\Debug\snagThis_MarkupCompile.cache
+O:\snagThis\obj\Debug\snagThis_MarkupCompile.lref
+O:\snagThis\obj\Debug\snagThis.g.resources
+O:\snagThis\obj\Debug\snagThis.Properties.Resources.resources
+O:\snagThis\obj\Debug\snagThis.csproj.GenerateResource.Cache
+O:\snagThis\bin\Debug\resources\icon.ico
+O:\snagThis\obj\Debug\snagThis_Content.g.cs
+O:\snagThis\obj\Debug\snagThis.csprojResolveAssemblyReference.cache
+O:\snagThis\obj\Debug\CaptureOverlayWindow.g.cs
+O:\snagThis\obj\Debug\CaptureOverlayWindow.baml
+O:\snagThis\obj\Debug\SnagThisWindow.g.cs
+O:\snagThis\obj\Debug\SnagThisWindow.baml
+O:\snagThis\obj\Debug\hud.g.cs
+O:\snagThis\obj\Debug\SnackSuccess.g.cs
+O:\snagThis\obj\Debug\hud.baml
+O:\snagThis\obj\Debug\SnackSuccess.baml
+O:\snagThis\bin\Debug\MaterialDesignColors.dll
+O:\snagThis\bin\Debug\MaterialDesignThemes.Wpf.dll
+O:\snagThis\bin\Debug\MaterialDesignThemes.Wpf.pdb
+O:\snagThis\bin\Debug\MaterialDesignThemes.Wpf.xml
+O:\snagThis\obj\Debug\App.baml
+O:\snagThis\obj\Debug\settings.g.cs
+O:\snagThis\obj\Debug\settings.baml
+O:\snagThis\obj\Debug\LoadSplash.g.cs
+O:\snagThis\obj\Debug\LoadSplash.baml
+C:\Users\carsonm\Desktop\snagThis\bin\Debug\resources\icon.ico
+C:\Users\carsonm\Desktop\snagThis\bin\Debug\snagThis.exe.config
+C:\Users\carsonm\Desktop\snagThis\bin\Debug\snagThis.exe
+C:\Users\carsonm\Desktop\snagThis\bin\Debug\snagThis.pdb
+C:\Users\carsonm\Desktop\snagThis\bin\Debug\MaterialDesignColors.dll
+C:\Users\carsonm\Desktop\snagThis\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\carsonm\Desktop\snagThis\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\carsonm\Desktop\snagThis\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\snagThis.csprojResolveAssemblyReference.cache
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\CaptureOverlayWindow.g.cs
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\hud.g.cs
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\LoadSplash.g.cs
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\settings.g.cs
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\SnackSuccess.g.cs
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\SnagThisWindow.g.cs
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\App.g.cs
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\snagThis_Content.g.cs
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\snagThis_MarkupCompile.cache
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\snagThis_MarkupCompile.lref
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\App.baml
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\CaptureOverlayWindow.baml
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\hud.baml
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\LoadSplash.baml
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\settings.baml
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\SnackSuccess.baml
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\SnagThisWindow.baml
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\snagThis.g.resources
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\snagThis.Properties.Resources.resources
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\snagThis.csproj.GenerateResource.Cache
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\snagThis.exe
+C:\Users\carsonm\Desktop\snagThis\obj\Debug\snagThis.pdb
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\bin\Debug\resources\icon.ico
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\bin\Debug\snagThis.exe.config
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\bin\Debug\snagThis.exe
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\bin\Debug\snagThis.pdb
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\bin\Debug\MaterialDesignColors.dll
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\hud.g.cs
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\settings.g.cs
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\SnagThisWindow.g.cs
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\App.g.cs
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\snagThis_Content.g.cs
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\snagThis_MarkupCompile.cache
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\snagThis_MarkupCompile.lref
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\App.baml
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\hud.baml
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\settings.baml
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\SnagThisWindow.baml
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\snagThis.g.resources
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\snagThis.Properties.Resources.resources
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\snagThis.csproj.GenerateResource.Cache
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\snagThis.exe
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\snagThis.pdb
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\snagThis.csprojResolveAssemblyReference.cache
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\snacks\SnackSuccess.g.cs
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\snacks\SnackSuccess.baml
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\snacks\SnackError.g.cs
+C:\Users\carsonm\Documents\Visual Studio 2017\Projects\snagThis\obj\Debug\snacks\SnackError.baml
