@@ -12,6 +12,7 @@ After you click the icon, it will turn green.
 
 The next click you make will be the one that takes the screenshot. Click on the window you want a screenshot of and wait a second. This window will come up once the screenshot is complete.
 ![template](/helpmeimages/captured.JPG)
+
 The following options are available:
 1. Save- Will save to the default location (can be setup in the settings window)
 2. Save As- This will display a popup and let you pick where to save it and the name of the screenshot
